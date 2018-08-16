@@ -1,0 +1,10 @@
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\API_ECOMERCE_(PlanoSeuJeito).exe.config
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\API_ECOMERCE_(PlanoSeuJeito).exe
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\API_ECOMERCE_(PlanoSeuJeito).pdb
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\WebDriver.dll
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\WebDriver.Support.dll
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\WebDriver.xml
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\bin\Debug\WebDriver.Support.xml
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\obj\Debug\API_ECOMERCE_(PlanoSeuJeito).csprojResolveAssemblyReference.cache
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\obj\Debug\API_ECOMERCE_(PlanoSeuJeito).exe
+C:\Users\mathe\Desktop\Cielo\API e-Commerce Cielo\API_ECOMERCE_(PlanoSeuJeito)\API_ECOMERCE_(PlanoSeuJeito)\obj\Debug\API_ECOMERCE_(PlanoSeuJeito).pdb
